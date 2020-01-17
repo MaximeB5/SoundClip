@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundClipAlpha2</string>
+    <string name="btbutton">Connect to Bluetooth</string>
+    <string name="button2">Scan for new devices</string>
+</resources>
